@@ -1,0 +1,4 @@
+yourpackage.egg-info/*
+venv/*
+*.swp
+*.pyc
